@@ -1,0 +1,61 @@
+{
+  "provider": "printify",
+  "mode": "print-on-demand",
+  "status": "designs-ready-awaiting-traction",
+  "go_live_rule": "Enable Pop-up Store after a brand clears kill/double-down with clear winner engagement",
+  "products": [
+    {
+      "brand": "plain-signal",
+      "sku_ideas": [
+        {
+          "type": "unisex-tee",
+          "name": "Plain Signal Check",
+          "artwork": "merch/art/plain-signal-tee.svg",
+          "printify_blueprint_hint": "Unisex Jersey Short Sleeve Tee"
+        },
+        {
+          "type": "hoodie",
+          "name": "Clear Tech Hoodie",
+          "artwork": "merch/art/plain-signal-tee.svg",
+          "printify_blueprint_hint": "Unisex Hoodie"
+        },
+        {
+          "type": "sticker",
+          "name": "Signal Mark Sticker",
+          "artwork": "merch/art/plain-signal-tee.svg",
+          "printify_blueprint_hint": "Kiss Cut Stickers"
+        }
+      ]
+    },
+    {
+      "brand": "after-the-fact",
+      "sku_ideas": [
+        {
+          "type": "unisex-tee",
+          "name": "Overlooked Reasons Tee",
+          "artwork": "merch/art/after-the-fact-tee.svg",
+          "printify_blueprint_hint": "Unisex Jersey Short Sleeve Tee"
+        },
+        {
+          "type": "hoodie",
+          "name": "After the Fact Hoodie",
+          "artwork": "merch/art/after-the-fact-tee.svg",
+          "printify_blueprint_hint": "Unisex Hoodie"
+        },
+        {
+          "type": "sticker",
+          "name": "Folio Sticker",
+          "artwork": "merch/art/after-the-fact-tee.svg",
+          "printify_blueprint_hint": "Kiss Cut Stickers"
+        }
+      ]
+    }
+  ],
+  "setup_steps": [
+    "Create Printify account with brand email",
+    "Connect Pop-up Store (free) or Printful equivalent",
+    "Upload artwork from merch/art/",
+    "Publish 1 tee + 1 hoodie + 1 sticker for the winning brand first",
+    "Paste Pop-up embed snippet into merch.html #printify-embed"
+  ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <rect width="4500" height="5400" fill="#0B1220"/>
+  <circle cx="2250" cy="2400" r="520" fill="none" stroke="#3DE0C7" stroke-width="48"/>
+  <path d="M1900 2450 L2150 2700 L2650 2100" fill="none" stroke="#3DE0C7" stroke-width="72" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="2250" y="3400" text-anchor="middle" font-family="Georgia, serif" font-size="220" fill="#E8F7F4">Plain Signal</text>
+</svg>

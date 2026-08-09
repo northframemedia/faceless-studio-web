@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <rect width="4500" height="5400" fill="#1C1410"/>
+  <rect x="1350" y="1600" width="1800" height="1400" rx="40" fill="#F3E6D0" stroke="#C4A574" stroke-width="28"/>
+  <line x1="1600" y1="2050" x2="2900" y2="2050" stroke="#1C1410" stroke-width="28"/>
+  <line x1="1600" y1="2300" x2="2700" y2="2300" stroke="#1C1410" stroke-width="22"/>
+  <line x1="1600" y1="2550" x2="2800" y2="2550" stroke="#1C1410" stroke-width="22"/>
+  <text x="2250" y="3600" text-anchor="middle" font-family="Georgia, serif" font-size="200" fill="#F3E6D0">After the Fact</text>
+</svg>
