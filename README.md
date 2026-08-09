@@ -13,5 +13,5 @@ Open `index.html` in a browser, or:
 python3 -m http.server 8080
 ```
 
-Push updates: `git push brand main`
+Push updates: `git push origin main`
 
